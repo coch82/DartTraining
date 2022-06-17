@@ -1,2 +1,2 @@
 # DartTraining
-Dart Tutorial and practise to improve language abilitiy
+Dart Tutorial and practise to improve language skill
